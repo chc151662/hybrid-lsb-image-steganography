@@ -30,9 +30,10 @@ The proposed framework adopts a dual-stage embedding architecture:
 Dependencies are listed in `requirements.txt`.
 
 ## Usage
+This repository is intended for research and experimental reproduction purposes.
 
-This repository is intended for research and experimental reproduction purposes.  
-Key experimental scripts are located in the `tests/` directory.
+- Core implementation modules are located in the `core/` directory.
+- Experimental and evaluation scripts are provided in the `tests/` directories.
 
 ## Datasets
 
