@@ -16,10 +16,10 @@ The proposed framework adopts a dual-stage embedding architecture:
 
 ## Features
 
-- Zero-distortion embedding in smooth regions
-- Adaptive edge-guided data hiding
-- Lightweight auxiliary location recording
-- Support for reproducible experimental evaluation
+- Zero-distortion embedding in smooth regions under matching conditions
+- Adaptive edge-guided data hiding strategy
+- Lightweight auxiliary location information recording
+- Support for experimental reproducibility
 
 ## Environment
 
