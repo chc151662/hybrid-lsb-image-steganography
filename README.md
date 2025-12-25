@@ -2,7 +2,7 @@
 
 This repository provides a reference implementation of a hybrid image steganography framework proposed in the Project II report:
 
-**"Enhancing Hybrid LSB-Based Image Steganography Through Adaptive Embedding Strategies"**
+**"Improving Imperceptibility in Hybrid LSB-Based Image Steganography through Adaptive Embedding Strategies"**
 
 ## Overview
 
